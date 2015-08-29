@@ -2,7 +2,7 @@
 
 Like [compose](https://lodash.com/docs#flowRight), but functions can return [Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-```
+```javascript
 var composeAsync = require('compose-async');
 
 var deleteFriends = composeAsync(deleteUsersFriends, findUserById);
