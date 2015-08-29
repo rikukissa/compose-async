@@ -1,0 +1,27 @@
+{
+  "name": "compose-async",
+  "version": "0.0.1",
+  "description": "Compose with promise support",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rikukissa/compose-async.git"
+  },
+  "keywords": [
+    "compose",
+    "async",
+    "promise"
+  ],
+  "author": "Riku Rouvila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rikukissa/compose-async/issues"
+  },
+  "homepage": "https://github.com/rikukissa/compose-async"
+}
